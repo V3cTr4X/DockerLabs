@@ -211,7 +211,7 @@ Table: users
 
 Bingo, tenemos las credenciales de inicio de sesion
 
-![[Pasted image 20250430104449.png]]
+![Descripción](../../IMG/Pasted%20image%2020250430104449.png)
 
 Ya tenemos todo lo necesario para poder entrar por SSH, ahora a ver como saco la escalada de privilegios de la maquina
 

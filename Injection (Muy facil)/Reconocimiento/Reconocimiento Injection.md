@@ -39,6 +39,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 7.27 seconds
 ```
 
-![[Pasted image 20250430103058.png]]
+![Descripción](../../IMG/Pasted%20image%2020250430103058.png)
+
 
 Tenemos un Login, por el nombre de la maquina me espero cualquier cosa, probare con una injeccion SQL, la hare con sqlmap, pero antes le pasare un Gobuster para ver que nos podemos encontrar dentro del directorio de la web
