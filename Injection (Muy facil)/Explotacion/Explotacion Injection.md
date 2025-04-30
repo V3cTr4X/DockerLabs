@@ -311,4 +311,3 @@ root
 
 Al ser un SUID con permisos de ejecucion y demas, he conseguido escalar los privilegios para ser root, asi hemos conseguido el root
 
-![[Pasted image 20250430113138.png]]
